@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Futura";
+  src: url("./FuturaExtraBold.woff") format("woff"),
+    url("./FuturaExtraBold.woff2") format("woff2"),
+    url("./FuturaExtraBold.otf") format("opentype"),
+    url("./FuturaExtraBold.ttf") format("truetype");
+  font-weight: 900;
+}
+@font-face {
+  font-family: "Futura";
+  src: url("./FuturaExtraBoldItalic.woff") format("woff"),
+    url("./FuturaExtraBoldItalic.woff2") format("woff2");
+
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Din";
+  src: url("./DINOT-Medium.woff") format("woff"),
+    url("./DINOT-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
